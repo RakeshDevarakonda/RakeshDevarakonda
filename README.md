@@ -86,7 +86,8 @@
 </p>
 
 <!-- Animated Section Headers -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=61DAFB&center=true&vCenter=true&repeat=true&width=435&lines=🎨+Frontend+Development" alt="Frontend Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=61DAFB&center=true&vCenter=true&repeat=true&width=435&lines=%F0%9F%8E%A8+Frontend+Development" alt="Frontend Header" />
+
 
 <div align="center">
 
@@ -102,7 +103,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=68A063&center=true&vCenter=true&repeat=true&width=435&lines=⚙️+Backend+Development" alt="Backend Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=68A063&center=true&vCenter=true&repeat=true&width=435&lines=%E2%9A%99%EF%B8%8F+Backend+Development" alt="Backend Header" />
+
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
@@ -113,14 +115,16 @@
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=4EA94B&center=true&vCenter=true&repeat=true&width=435&lines=🗄️+Database+%26+Caching" alt="Database Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=4EA94B&center=true&vCenter=true&repeat=true&width=435&lines=%F0%9F%97%84%EF%B8%8F+Database+%26+Caching" alt="Database Header" />
+
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=2496ED&center=true&vCenter=true&repeat=true&width=435&lines=🛠️+DevOps+%26+Tools" alt="DevOps Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=2496ED&center=true&vCenter=true&repeat=true&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+DevOps+%26+Tools" alt="DevOps Header" />
+
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -130,7 +134,8 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?style=for-the-badge&logo=gitlab&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=C21325&center=true&vCenter=true&repeat=true&width=435&lines=🧪+Testing" alt="Testing Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=C21325&center=true&vCenter=true&repeat=true&width=435&lines=%F0%9F%A7%AA+Testing" alt="Testing Header" />
+
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Supertest](https://img.shields.io/badge/Supertest-07C160?style=for-the-badge&logo=testing-library&logoColor=white)
@@ -141,11 +146,7 @@
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="25" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="25" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="25" />
-</p>
+
 
 ## 🏆 Featured Projects
 
@@ -159,7 +160,6 @@
 
 <div align="center">
 <a href="https://github.com/yourusername/cms-platform" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=cms-platform&theme=tokyonight&hide_border=true" width="100%" alt="CMS Platform"/>
 </a>
 
 <p>
@@ -192,7 +192,6 @@
 
 <div align="center">
 <a href="https://github.com/yourusername/chat-api" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=chat-api&theme=tokyonight&hide_border=true" width="100%" alt="Chat API"/>
 </a>
 
 <p>
@@ -228,7 +227,6 @@
 
 <div align="center">
 <a href="https://github.com/yourusername/video-tracker" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=video-tracker&theme=tokyonight&hide_border=true" width="100%" alt="Video Tracker"/>
 </a>
 
 <p>
@@ -261,7 +259,6 @@
 
 <div align="center">
 <a href="https://github.com/yourusername/job-portal" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=job-portal&theme=tokyonight&hide_border=true" width="100%" alt="Job Portal"/>
 </a>
 
 <p>
