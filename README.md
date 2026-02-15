@@ -373,14 +373,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="25" />
 </p>
 
-<div align="center">
 
-## 🎯 Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
 
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
